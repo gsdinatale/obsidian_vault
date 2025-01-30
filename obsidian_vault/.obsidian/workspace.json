@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4407cfdea866a979",
+        "id": "ade0cb93f1a7576b",
         "type": "tabs",
         "children": [
           {
-            "id": "745a1a7c69f1f0e5",
+            "id": "557ead6f6a2a0e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "2025-01-29.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 2025-01-29"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "2025-01-29.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2025-01-29"
             }
           },
           {
@@ -173,9 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "745a1a7c69f1f0e5",
+  "active": "3f7b175750f07292",
   "lastOpenFiles": [
-    "Welcome.md",
-    "2025-01-29.md"
+    "2025-01-29.md",
+    "Welcome.md"
   ]
 }
