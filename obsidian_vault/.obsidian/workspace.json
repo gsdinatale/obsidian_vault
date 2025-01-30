@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ade0cb93f1a7576b",
+        "id": "4965ca23939c655f",
         "type": "tabs",
         "children": [
           {
-            "id": "557ead6f6a2a0e8c",
+            "id": "29fe49b8dc135e3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-01-29.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-29"
+              "title": "New tab"
             }
           }
         ]
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-29"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2025-01-29.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-29"
+              "title": "Outline"
             }
           },
           {
@@ -153,6 +146,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "ae5909dbbdf7ae6a",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -170,11 +173,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obligator:Open today's obligator note": false
     }
   },
-  "active": "3f7b175750f07292",
+  "active": "ae5909dbbdf7ae6a",
   "lastOpenFiles": [
+    "create a link.md",
     "2025-01-29.md",
     "Welcome.md"
   ]
