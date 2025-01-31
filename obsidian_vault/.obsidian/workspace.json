@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4965ca23939c655f",
+        "id": "5482ae8f644fdb72",
         "type": "tabs",
         "children": [
           {
-            "id": "29fe49b8dc135e3e",
+            "id": "48786389e225a295",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-31.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-01-31"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2025-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-01-31"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2025-01-31.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-01-31"
             }
           },
           {
@@ -149,7 +156,7 @@
             }
           },
           {
-            "id": "ae5909dbbdf7ae6a",
+            "id": "9abdbddedee37ae7",
             "type": "leaf",
             "state": {
               "type": "timer-view",
@@ -178,10 +185,12 @@
       "obligator:Open today's obligator note": false
     }
   },
-  "active": "ae5909dbbdf7ae6a",
+  "active": "3f7b175750f07292",
   "lastOpenFiles": [
-    "create a link.md",
+    "2025-01-31.md",
+    "Welcome.md",
+    "Daily notes",
     "2025-01-29.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
