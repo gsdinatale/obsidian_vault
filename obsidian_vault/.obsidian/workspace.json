@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Daily notes/2025-04-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2025-04-07"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Daily notes/2025-04-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2025-04-07"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -190,29 +189,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obligator:Open today's obligator note": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "obligator:Open today's obligator note": false
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "02ccd3fdce065112",
+  "active": "b25bcf7e56a7c00b",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Daily notes/2025-04-07.md",
+    "Templates",
     "Daily notes/2025-01-31.md",
+    "Templates/2025-03-19.md",
+    "Templates",
+    "Templates",
+    "Untitled.canvas",
     "Daily notes/2025-03-07.md",
     "Daily notes/2025-03-09.md",
     "Daily notes/2025-03-08.md",
-    "Welcome.md",
-    "Untitled",
     "Daily notes",
     "2025-01-29.md",
     "create a link.md"

@@ -8,7 +8,7 @@
   "showTaskProgress": true,
   "enableTaskTracking": false,
   "logFile": "DAILY",
-  "logFocused": false,
+  "logFocused": true,
   "logPath": "",
   "logLevel": "ALL",
   "logTemplate": "",
