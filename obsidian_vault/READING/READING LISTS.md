@@ -42,3 +42,8 @@ Tyndale bible
 The puzzle palace 
 permanent record
 sandworm (eternal blue)
+masonry beyond the light 
+## rhetoric
+Classical rhetoric for the modern student (text)
+Figure of speech used in the bible
+The commited word 
