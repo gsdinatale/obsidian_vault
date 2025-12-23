@@ -1,49 +1,75 @@
 
-## GRIM
-discipline: Mediations  Marcus Aurelius
+- [  ## GRIM
+- [ ] discipline: Mediations  Marcus Aurelius
 
-Health: The science of being well Wallace D Wattles
+- [ ] Health: The science of being well Wallace D Wattles
 
-Self-sufficiency: Walden Thoreau
+- [x] Self-sufficiency: Walden Thoreau
 
-Wealth: Think and grow rich Napoleon hill
+- [ ] Wealth: Think and grow rich Napoleon hill
 
-Influence: How to win friends and influence people Dale Carnegie
+- [x] Influence: How to win friends and influence people Dale Carnegie
 
-Strategy: The art of war Sun Tzu
 
-Brotherhood: Bushido: The soul of japan Inazo Nitose
+- [ ] Strategy: The art of war Sun Tzu
 
-Family: War and Peace Tolstoy 
+- [ ] Brotherhood: Bushido: The soul of japan Inazo Nitose
 
-Resilience: Park night of the souls John of the cross
+- [ ] Family: War and Peace Tolstoy 
 
-Macroeconomics: Modern monks mechanics federal reserve of Chicago
+- [ ] Resilience: Park night of the souls John of the cross
 
-Spirit: Leaves of grass Walt Whitman
+- [ ] Macroeconomics: Modern monks mechanics federal reserve of Chicago
+
+- [ ] Spirit: Leaves of grass Walt Whitman
 
 ## banned books
 
-Gulag arcapelego
-1984
-The sovereign individual
-Creature from Jekyll island
-Brave new world 
-Fahrenheit 451
-Reality Transurfing
-Medical nemesis
-The mass psychology of fascism
-The Egyptian
-The Adam and eve story
-Tyndale bible 
+- [ ] Gulag arcapelego
+- [x] 1984
+- [ ] The sovereign individual
+- [ ] Creature from Jekyll island
+- [ ] Brave new world 
+- [ ] Fahrenheit 451
+- [ ] Reality Transurfing
+- [ ] Medical nemesis
+- [ ] The mass psychology of fascism
+- [ ] The Egyptian
+- [ ] The Adam and eve story
+- [ ] Tyndale bible 
 
 ## Others
 
-The puzzle palace 
-permanent record
-sandworm (eternal blue)
-masonry beyond the light 
+- [ ] The puzzle palace 
+- [ ] permanent record
+- [ ] sandworm (eternal blue)
+- [ ] masonry beyond the light 
 ## rhetoric
-Classical rhetoric for the modern student (text)
-Figure of speech used in the bible
-The commited word 
+- [ ] Classical rhetoric for the modern student (text)
+![[Untitled.base]]
+
+- [ ] Figure of speech used in the bible
+- [ ] The commited word 
+
+## Free book websites
+
+planet** ebooks
+free-ebooks.net
+manybooks
+librivox
+internet archive
+bookbob
+open library
+bookboon
+feedbooks
+smashwords
+project gutenburg
+google books
+pdfbooksworld
+freetechbooks
+bookyards
+getfreebooks
+ebooklobby
+freecomputerbooks
+manybooks
+

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd3d02182ec6ed0e","type":"file","file":"Planning/A_quick_preview_of_our_free_planners_-_paid_subscribers_get_access_to_more!_(2_of_4).png","x":-680,"y":520,"width":640,"height":831},
+		{"id":"a75935778732aad2","type":"file","file":"Planning/A_quick_preview_of_our_free_planners_-_paid_subscribers_get_access_to_more!_(4_of_4).png","x":-40,"y":520,"width":638,"height":831},
+		{"id":"8ee3d0fd4cecb2ca","type":"file","file":"Planning/A_quick_preview_of_our_free_planners_-_paid_subscribers_get_access_to_more!_(2_of_4).png","x":200,"y":-200,"width":554,"height":720},
+		{"id":"47d4e5e2452e6c75","type":"file","file":"Planning/A_quick_preview_of_our_free_planners_-_paid_subscribers_get_access_to_more!_(1_of_4)(1).png","x":-680,"y":-200,"width":880,"height":720,"color":"3"}
+	],
+	"edges":[]
+}
