@@ -23,6 +23,7 @@
 
 - [ ] Spirit: Leaves of grass Walt Whitman
 
+Gödel, Escher, Bach
 ## banned books
 
 - [ ] Gulag arcapelego
@@ -37,7 +38,7 @@
 - [ ] The Egyptian
 - [ ] The Adam and eve story
 - [ ] Tyndale bible 
-
+- [ ] Atlas shrugged
 ## Others
 
 - [ ] The puzzle palace 
