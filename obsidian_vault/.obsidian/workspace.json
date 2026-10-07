@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2e3ed08ecd0f97f8",
+        "id": "96b561c75890ca88",
         "type": "tabs",
         "children": [
           {
-            "id": "446c7a6f7141420c",
+            "id": "dbb92385740e7319",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "d36d01e341ffa72e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "READING/READING LISTS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "READING LISTS"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +76,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "journal-calendar"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -104,8 +86,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "journal-calendar"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -240,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,18 +239,23 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "d36d01e341ffa72e",
+  "active": "dbb92385740e7319",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Daily notes/2026-04-08.md",
+    "Daily notes/2026-06-18.md",
+    "READING/READING LISTS.md",
+    "PROJECT IDEAS!/Building A Compendium.md",
+    "Daily notes/2026-10-07.md",
+    "Junk Smiles/Junk Smiles.md",
+    "Planning/Time blocking.canvas",
+    "Junk Smiles",
     "Daily notes/2026-01-15.md",
     "Welcome.md",
-    "Untitled.base",
-    "PROJECT IDEAS!/Building A Compendium.md",
-    "READING/READING LISTS.md",
     "Templates/Yearly.md",
     "Daily notes/2025-01-31.md",
     "Planning/A_quick_preview_of_our_free_planners_-_paid_subscribers_get_access_to_more!_(1_of_4)(1).png",
     "Daily notes/2025-11-29.md",
-    "Planning/Time blocking.canvas",
     "PROJECT IDEAS!",
     "Daily notes/2025-12-23.md",
     "Daily notes/2025-11-26.md",
@@ -291,17 +278,11 @@
     "Planning",
     "Templates/2025-05-15.md",
     "Templates/2025-05-07.md",
-    "Templates/2025-11-08.md",
-    "Templates/2025-10-08.md",
-    "Templates/Book.md",
-    "Templates/Weekly.md",
-    "Templates/Daily.md",
     "READING",
     "Templates/Untitled.canvas",
     "Untitled.png",
     "Untitled 1",
     "Untitled/Drag and drop - Obsidian Help.url",
-    "Templates",
     "Templates",
     "Templates"
   ]
